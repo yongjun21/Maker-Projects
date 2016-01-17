@@ -1,6 +1,6 @@
 ### My First Maker Project - Design  & Build an Impeller
 
-This was my capstone project for a part-time ITE course in Machining which I took up because of my previous role in a oil & gas company.
+This was my capstone project for a part-time ITE course in Machining which I took up previously because of my last job in a oil & gas company.
 
 ![Designing](Screenshot.jpg)
 
@@ -19,3 +19,5 @@ The CAD/CAM folder contains .prt files of the entire engineering product and pro
 3. **Finishing flat surface** at the top using same cutter in #2
 4. **Z-level profile cuts** for finishing fin walls using a 8MM ballnose cutter
 5. **Contour profiling** for finishing slope surface between fins using same cutter in #4
+
+Here I'll like to express gratitude to my ITE instructor Mr Chui F K for his immense support throughout this project. I relied a lot on his years of experience to overcome many technical challenges. I am sure he had a great time participating in this project also. Thank you Mr Chui.
