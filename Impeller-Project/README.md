@@ -2,7 +2,7 @@
 
 This was my capstone project for a part-time ITE course in Machining which I took up because of my previous role in a oil & gas company.
 
-![Designing](Design_Process.jpg)
+![Designing](Screenshot.jpg)
 
 For this project, I went through the whole process of designing and building a engineering product: an [impeller](https://en.wikipedia.org/wiki/Impeller), which is the rotating component of a centrifugal pump.
 
